@@ -1,3 +1,3 @@
 # GitHubTest
-Test amaçlı oluşturuyorum
+**Test amaçlı oluşturuyorum**
 Çok güzel bir repo oldu.
